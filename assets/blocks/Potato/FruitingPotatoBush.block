@@ -1,5 +1,5 @@
 {
-  "basedOn": "SimpleFarming:BaseBush",
+  "basedOn": "AdditionalVegetables:BaseBush",
   "displayName": "Fruiting Potato Bush",
-  "tile": "SimpleFarming:FruitingPotatoBush"
+  "tile": "AdditionalVegetables:FruitingPotatoBush"
 }
