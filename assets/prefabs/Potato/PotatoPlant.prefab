@@ -1,0 +1,24 @@
+{
+  "BushDefinition": {
+    "growthStages": {
+      "AdditionalVegetables:YoungPotatoBush:engine:halfblock": {
+        "minTime": 6000,
+        "maxTime": 12000
+      },
+      "AdditionalVegetables:YoungPotatoBush": {
+        "minTime": 7000,
+        "maxTime": 14000
+      },
+      "AdditionalVegetables:MaturePotatoBush": {
+        "maxRandom": 8000,
+        "fixed": 16000
+      },
+      "AdditionalVegetables:FruitingPotatoBush": {
+        "maxRandom": 8000,
+        "fixed": 16000
+      }
+    },
+    "produce": "AdditionalVegetables:Potato",
+    "sustainable": false
+  }
+}
